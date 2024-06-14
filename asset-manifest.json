@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Appointment-Calendar/static/js/main.32f52e47.js",
+    "index.html": "/Appointment-Calendar/index.html",
+    "main.32f52e47.js.map": "/Appointment-Calendar/static/js/main.32f52e47.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.32f52e47.js"
+  ]
+}
